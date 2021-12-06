@@ -4,12 +4,12 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Blog
-    url: '/blog/#blog'
-    weight: 20
-  - name: Projects
-    url: '/project/#projects'
-    weight: 30
+#  - name: Blog
+#    url: '/blog/#blog'
+#    weight: 20
+#  - name: Projects
+#    url: '/project/#projects'
+#    weight: 30
   - name: Research
     url: '/publication/#publications'
     weight: 10
