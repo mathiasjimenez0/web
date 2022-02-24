@@ -1,0 +1,264 @@
+Economics
+
+
+
+
+Austrian
+
+
+
+
+Información completa implica mercados completos si incluís entrepeneurship en el modelo (En un problema dinamico en realidad converge a mercados completos donde el problema que resuelve el entrep es el del walrasian auctioneer con una estimación de demanda y oferta del potencial mercado no existente. Esta estimación la corrige solo una vez ya que luego de la creación del mercado ya existen datos de demanda. El tipo sabe las demandas xq hay info completa y existe oportunidad de negocio en la creación del mercado)
+
+Al ser las pref estáticas en neoclásicos, no se permite hace el análisis lógico de que la causa de los cambios son cambios en las preferencias. Entonces se tiende a decir por ejemplo de que la tasa de interés determina la inversión, el gasto y la demanda de dinero.
+
+Compatibilizar teo austriaca con neoclásica: si suben costos entonces sube el precio sii los consumidores valoran el aumento del costo. Ademas, los austriacos dicen que no aumentaría el precio pero si aumenta algún costo puede ser que cambie el bien por que ahora tiene un servicio distinto.
+
+Teoría neoclásica en libre mercado. Estatica comparada con suba de costos. Como hacen para subir los costos?
+
+Preferencias completas restringidas a tu conjunto de informacion en t. Para cada t conoces Kt<Mt bienes, con Mt=cantidad de bienes en el mercado. Para cada t existe una probabilidad de que un bien k se sume a tu conjunto de información (Pk). A medida que pasa el tiempo vas descubriendo productos nuevos. Firmas heterogeneas con función de producción con marketing que afecta Pk. Las firmas de buena calidad tienen incentivos a gastar mas en marketing xq saben de la calidad de su producto entonces su rentabilidad del marketing es mas alta. 
+
+Funcion de transformación de información sobre existencia de bienes a ordenamiento dentro de tus preferencias de ese bien. O sea, a la función le enchufas un bien que descubris y te escupe el ordenamiento en tus preferencias. Esto ocurre antes de probar el nuevo bien, es decir, es una estimación de la utlidad que te daría consumirlo. Una vez que lo consumis, sabes cuanta utilidad te dio y modificas tu ordenamiento de ese bien en t+1.
+
+Como es el mecanismo por el cual una persona descubre y cambia sus preferencias? Puede ser porque se sobre estimo la serviciabilidad. Investigar mas sobre la relación entre cambio de preferencias por el cambio en el contexto.
+Modelo con Xt en tiempo continuo y la persona elije la cantidad de bienes a descubrir en t+1. La persona tiene pref completas pero restringidas a los bienes que eligio aprender a comparar.
+
+C satisface WARP en t pero con fines cambiantes. Dadas las mismas circunstancias, puede suceder que se viole WARP si la persona cambio sus fines. Modelo medios-fines. Creencias sobre que medios sirven para que fin y en que medida.
+
+NGM con etapas de producción de Hayek
+
+
+
+
+Micro
+
+
+
+
+Pregunta de pouzo. Si hay info completa de las primitivas…como es que no es suficiente para entender el problema del WA?
+
+Por akerlof, las garantías la ofrecen los productores buenos para poder vender a precio de bueno. Entonces valor de la garantía tiene que ser igual diferencia de precios entre precio del bueno y el precio de mercado con limones.
+
+Economics and brainwashing. Repetición de ideas constantemente e impacto en beliefs. Peer effects con miedo a reportar. 
+
+Si en un modelo cada vez se producen mas y mejores bienes la U aumenta con el tiempo. Pero esto no se ve en los datos (datos felicidad). Si incorporas al modelo envidia explicas los datos?
+
+Por qué algunas medidas de contaminación bajan en el tiempo si las personas no tienen incentivos directos a bajarlas?
+
+Investigar como entrepeneurship arregla las fallas del mercado sin la ayuda del gobierno.
+
+Social norms as evolutionary internalization of externalities. Empresarios descubren formas de resolver fallas de mercado pero a veces las reglas e instituciones estan dadas para que no tengan incentivos a resolver ciertas fallas (no pueden capitalizar ningún tipo de ganancia). Las normas sociales pueden jugar un rol para solucionar estas fallas. Mal visto tirar basura en la calle, etc.
+
+Alcohol vs marihuana: experimento o cuasi para captar diferencias entre agresividad y conductas inapropiadas. Es producto de la droga o de las personas que la consumen? Se observa mas violencia en alcohol pero puede ser xq las personas son mas violentas que las que consumen marihuana
+
+Por que consumimos poco cuando algo es gratis? Regla implícita? Presion social?
+
+Racionalizar microdonaciones. Porque la gente dona hasta 200usd a campanas políticas en USA? 64% de las donaciones a Trump fueron microdonaciones. Cual es el retorno?
+
+Vimos en micro que en el caso de info privada de utilidad, para saber si una asignación es PO entonces necesariamente sabemos el precio que hace que esa asignación PO. Es decir, no es posible saber si una asignación en PO si no sabemos el precio. Si encuentro un mecanismo (mercado) que es necesario para llegar a un precio, entonces para saber si una asignación es PO necesariamente tengo que implementar ese mecansimo. O sea, que haya un mercado es necesario para saber que es PO y que no (mises: imposibilidad de calcula bajo socialismo.)
+
+En el proceso de adaptación de tanntanom, agregar al proceso herd behavior para que cuando cambie un parámetro el proceso ajuste hacia un equlibrio lejos del 1er equilibrio.
+
+Segal dijo que los computer scientist dicen que en gral es difícil que un modelo complejo algún proceso de ajuste encuentre un equilibrio. Investigar esto un poco mas ya que puede ser evidencia a favor de non eq econ.
+
+Investigar economics of philantrophy. (Andreoni J)
+
+Datos sobre enfermos terminales pero que pueden hacer cosas. Como se comportan? Cuanto dejan de herencia? Se podría desglosar que % de la herencia q deja la gente es xq realemente quiere o xq no sabe cuando se va a morir. A parte en gral la gente ahorra x precaucion pero cuando es vieja ya no tiene mucho en q gastarla.
+
+Meditation in prison.
+
+Fuzzy Coase theorem
+
+Testing for cores in political organizations. 
+
+
+
+
+
+
+Macro
+
+
+
+
+
+Modelar gobiernos como monopolistas que tienen potenciales entrantes cada 5 anos. Como afecta la calidad de los servicios? Impuestos? Cuidado del capital?
+
+Modelo para testear objective functions: distintas OF implican distintas cosas dentro de un modelo. Testear implicancias de cada OF para testear que OF es la de los agentes. Ej: políticos.
+
+Politician signaling through law and speech. Citizens: P of voting someone given politician’s actions. Politicians: maximize the P of being elected through action choices. Compare actions in social planner vs decentralized equilibrium. 
+
+Economics of dictatorship: model to show that an optimal decision from a dictator could be democracy. Analogy with the salve’s tale of Rothbard.
+
+Impossibility of  conciliation between interventionism and free market? Relate with competition as a discovery procedure. Experimentation in politics as solution.
+
+Relation between norms, public law and private law.
+
+Is there selection in politics? Look for natural experiment.
+
+How involuntary are taxes?
+
+Politics in a model of weak links.
+
+
+Disentangle contribution of violence in drug market between prohibition and drug.
+
+Como afecta la creación de un Estado de Bienestar en la movilidad? Cual es el signo?
+
+Cual es el efecto de la inmigración en un estado de bienestar?
+
+Que pasaría si se hiciera una ley que impida el déficit fiscal y emitir deuda? Cuales serian las implicancias de cp y lp?
+
+Política publica: el bien publico se provee solo si todo el mundo pone al menos costo/N pesos.
+
+Mercado de trabajo: trabajadores puedan destinar parte de su salario a un seguro por si están desempleados vs seguro de desempleo del Estado.
+
+The  long term effects on “War on Poverty”. Application process random? Maybe demand > supply in some case. Diff across regions. Community Action Program 1000 still operate (data?)
+
+External validity and policy implications. PI depends on external validity, and external validity depends on inference from local knowledge.
+
+
+How different communication strategies affect economic reforms. Gov. optimal timing for announcement, what information give. Economic reform as regime switching and
+communication affects predictability of switch.
+
+Modelo de ciclos políticos en Arg para explicar comportamiento del deficir fiscal. Baja del déficit en transiciones y suba durante periodo de gobierno con default al final del periodo. Ver twitter.
+
+Shock or gradualism? Optimal pace of reforms.
+
+Bust- Boom political economy cycles: Usually we model boom bust cycles where CB lowers i_t which creates a boom and then a bust. But, if there is a bust for non monetary reasons, after the CB lowers i_t to recover but this creates a boom. 
+
+The political economy of central banking emergence: rationalize the emergence of central banking. Free banking followed by central banking around the world. See fiscal hypothesis role of gov in money by Selgin and white.
+
+Self fulfillment assumptions in MP. Model without price stickiness and CB thinking price stickiness exist. Agents realize this and react knowing this. Do we end with price stickiness? Need some misinterpreted signal to CB for them to think there is price stickiness…with time and advances to produce maybe?
+
+Level vs relative rigidity. Document relative rigidity across sectors.
+
+Is there love for rigidity in wages?
+
+Relación entre desigualdad y desarrollo del sistema bancario/financiero: la guita que emite el BC va 1ero a manos de la gente que este inserto en sistema bancario entonces existe redistribución de pobres a ricos.
+
+Document entry barriers in financial markets.
+
+Segmentation in MP: In CB with fiat money there are open market exchanges. In FB banks issue banknotes. What changes?
+
+Modelo de creación de dinero endógeno para expandir la división del trabajo y extender los procesos de producción.
+
+Money as an institution for increasing the division of labor. Money emerges spontaneously in the market to facilitate advances from entrepreneurs to capital goods and labor.
+
+Necessary and sufficient conditions for money to be essential in model with stages of production is beta<1.
+
+Build a model to rationalize P_0 in a MIU model where Gov has a money growth rule.
+
+Can’t we build a model as a continuum of Lagos and Wright (2005)? They assume 2 separate sub periods.
+
+Read Schneider on optimal government currency and try to reply.
+
+Economics of Bitcoin: find data from instable country which uses bitcoin. Maybe take as reference paper with cellphones in India.
+
+Measure  velocity of  circulation tracking bitcoins with blockchain.
+
+Argentina vs US: the relationship between omega and lambda knowledge. Investigar la relacion entre los 2 tipos de conocimiento. Cuales son las causas que llevan a que haya mas o menos relación?. Omega = scientists and Lambda = entrepeneurs. Si Omega no crece, lambda tiene rendimientos decrecientes: agua sucia: si solo observas que con agua sucia tenes diarrea, en vez de hervirla caminar kilómetros hasta encontrar agua limpia.
+
+Indice de completitud de mercados. Ver como evoluciona en el tiempo y entre países. Intentar medir q tipo de mercados son incompletos, o sea, contra q estado de la naturaleza no se puede hedgear. 
+
+Explicar baja del precio relativo de bienes de capital relativo a bienes de consumo por extensión en el proceso productivo. Como con el tiempo mas bienes de capital estan mas alejados del bien de consumo, el precio es menor entonces el ratio baja en gral. Averiguar como se calcula este índice de precio relativo.
+
+Hayek meets Uzawa: Balance Growth Path with Stages of Production.  Try to get g_q > 0 with capital augmented technological change when incorporation time and stages of production. Moreover, try to connect the fact that manufacturing A has risen a lot and q has risen also: q should be related to the price of capital goods.
+The gross Kaldor facts.
+
+Production takes time. Include in the model economies of scope, entrep should use K with more scope if environment changes faster. Mass production (economies of scale) vs lean production (economies of scope).
+
+Paper documenting facts related to production takes time.
+
+Model with top inequality in all 20th century pattern to hinge all together. Capital income vs labor income. Wars (destruction of K), stock crash (more risk aversion, fly to fix wage) and progressive taxation.
+
+
+Optimal banking industry. Bank solves a problem of merge and aquisition, opening branches, etc. The outcome changes both systemic risk and risk sharing. Trade off?
+
+Crypto in Venezuela. Data on M1 in V still reliable. Use blockchain associated with V. Model with Gov, CB and consumer. Consumer chooses money to transact with. "The end of massive seignorage".
+
+Search habits in a network.
+Endogenous habit formation in search models.
+
+Optimal portfolio: usually agents only care about consequences of lotteries (expected utility). Tweak with sth else (see discussion in MCWG)
+
+Towards a bankless economy: The role of cryptocurrencies.
+
+What is the relationship between the quantity of money and assets in the economy? There is no mechanical relation, but given M, higher A means that less M goes to every A.
+Therefore, market cap is less per A and is more iliquid. T or F?
+
+Network structure predictions in search models. Undirected search gives random network which we do not see in the data for many applications. 
+What are the predictions for  directed search models?
+
+Weak links in State police: Evidence from Argentinian strikes in 2013.
+
+The unit of account as a device to provide a sufficient statistic for profit and loss signals. 
+Without a unit of account it requires a massive amount of cognitive effort and skills. 
+Compare with the extreme case of no  unit of account but common knowledge about all relative prices
+Is it possible to know the opportunity cost without unit of account? 
+Extra: barter economy as a bilateral monopoly problem?
+
+Usually search models assume one special good per type of person and money facilitates overcome the double coincidence problem.
+Another issue is that given the same good, some people prefer to consume in the future and for that money has to be durable and the good nondurable.
+
+The value of experimentation: Evidence from fake money positions.
+
+Can stable coins solve the safe asset shortage?
+The Paradox of the Open Synthetic Dollar Printing Press
+
+Financial Microstructure and Endogenous Tail Risk
+   
+
+
+Others
+
+
+
+
+
+
+Relación entre caos y anarquismo.
+
+Si tenes un modelo y tenes un economista que sabe resolver el modelo solo el. Puede sacar alguna ventaja?
+
+Teoría metaantietica: los teoremas de ética no son prescriptivos, solo posibles teorías que uno elije para guiar su consciencia o acciones. Cada uno “elije” dentro de estas opciones la que prefiere mas. Al no ser prescriptivas, dejan de ser normativas estrictamente ya que no estudian cómo debería ser si no que proveen una opción de lo que es bueno y malo.
+
+Estoy trancado sobre como deberian juzgar a los demás los subjetivistas éticos
+
+Cada acción (que siempre refiere a futuro que es incierto) es una inversión bajo riesgo ya que el “capital” invertido que se pierde si no se toma la decisión correcta es el tiempo perdido que como es limitado vale.
+
+Leyendo eco positiva de Friedman: entonces en el PTB no hay que decir que si hay un mercado libre entonces hay PO. Simplemente habría que tomar las predicciones de competencia perfecta y contrastarlas con los datos. Si decís que si se cumplen los supuestos del PTB entonces hay un PO entonces nunca se podrían cumplir los supuestos xq uno de ellos es estar en los reales. Ademas una asignación PO no es observable entonces no se puede falsar la predicción del PTB.
+
+Ruido en asumir mercado libre con un gobierno exógeno. Si es exógeno, nunca se va a poder lograr en el modelo que lo mejor en términos de bienestar sea no tener gobierno. Ademas, si tenes un modelo con gobierno y el eq no es PO: por que se dice que el mercado LIBRE no es eficiente si en el modelo YA existe un gobierno (osea que en este eq ya no estamos en libre comercio)???
+
+Experimento mental:
+2 personas en el mundo.
+Cada uno vive en una isla distinta a miles de kilómetros de distancia.
+Estas personas solo se alimentan de cocos que hay en árboles.
+1)	Misma cantidad de cocos, misma altura.
+Los 2 tienen la misma altura y tienen la misma cantidad de cocos para comer. 
+2)	Misma cantidad de cocos, distinta altura.
+Hay uno que es más alto y por lo tanto requiere de menos esfuerzo para llegar a los cocos.
+Obligarías al más alto a donarle parte de su altura (suponiendo que esto es factible y que no hay dolor en el cambio)?  Apuesto a que casi nadie lo obligaría.
+
+Hay selección en los datos disponibles para documentar facts en economía? Los burócratas pueden no querer dar datos sobre cosas que saben que no estan funcionando por ejemplo.
+
+Modelo de research bias: hay un bias a publicar intervenciones que tienen un efecto positivo. 
+
+Modelo de economistas. Salario y posición depende en gran parte de seguir dogmas. Equilibrio reinforced: los que siguen cierto dogma hire a los que también siguen el mismo dogma.
+
+Modelo donde exista un sesgo en la no opinión. No opinar esta correlacionado con creencia en algo políticamente incorrecto.
+
+Regression discontinuity para ver efectio MIT: los que estan en lista de espera son de calidad parecida entonces aceptados de lista de espera vs no aceptados de lista de espera es parecido a randomizacion.
+
+Buscar datos para medir efecto causal de reflexión en economía. Investigar en gral la reflexividad en economía: metodología, filosofía, etc.
+
+Research network structure.
+
+
+
+
+
+
+
+

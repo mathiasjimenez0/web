@@ -1,0 +1,315 @@
+EVOLUTION
+
+
+From Ancient Tribes to Online Platforms: The Limits of Gift-Exchange Economies. Couchsurfing vs AirBnB. 
+Search models say that as N tends to infinity gift-exchange not sustainable. But, the key is not population but cost of diffusing relevant information. In fact, there could be billions of users in Couchsurfing.
+Could also look into the stability of the gift exchange equilibrium by looking at the AirBnb shock which plumetted Couchsurfing users (Google trends)
+Could take this Aribnb shock to answer some question about the transition from gift exchange to monetary exchange 
+
+Is private property wired into our brains?. Land appropiation + loss aversion gives endogenous private property: If I get somewhere first, I am willing to spend more resources to defend the territory than what a foreigner is willing to invest to conquer. Therefore, private property is persistent.
+
+Culture or incentives? Usually we have "experiments" of equal cultures and different incentive schemes like N vs S Korea or E vs W Berlin or Canada vs US in banking. How about equal incentives but different cultures? Maybe use historical episode as well.
+
+Why don't animals cooperate in markets? Why do they only live in small communities? 
+Maybe they do not have agglomeration gains   
+
+Institutions emerge to solve specific problems that arise both to enhance a group's probability of survival and when cooperation within unit becomes more and more complex.
+When one person lives in autarky, no institutions are needed. When groups are formed to increase one's probability of survival, institutions help increase this probability further.
+
+
+
+
+
+
+POLITICAL ECONOMY
+
+
+
+
+
+Impossibility of conciliation between interventionism and free market? Relate with competition as a discovery procedure. Experimentation in politics as solution.
+
+The Elephant in the Room: Macroeconomic Implications of Market-Based Governments
+Secession: Group-based exit to form new company.
+Migration:  Individual-based exit to change company.
+Entry barrier: Physical land as necessary and scarce input to open company
+Exit barrier: Moving costs to migrate and prohibition of secession 
+Entry barrier: Cartelization of existing companies. Implications? Migration barriers?
+New technologies allow civilization on the seas, then entry barrier goes down. Moving costs also go down.
+Relate to ordinary market: what is secession? migration? entry and exit by customers and firms?
+
+Is there selection in politics? Look for natural experiment.
+Novick con llamado para intendente?
+
+Politics in a model of weak links and star network. Willingness to pay depends on whole chain of product: house price depends on security. corporate bond price depends on legal system.
+Weak links in State police: Evidence from Argentinian strikes in 2013.
+
+How involuntary are taxes?
+Why do people want to evade taxes so much compared to paying for other services given that punishment from evading seems so high? Does the level of voluntarism in the contract matters per-se?
+
+Does representative democracy makes sense from a corporate finance perspective?
+
+Why do economic reforms coincide with times of crisis? Usual story can be told with bayesian updating of the chance of certain events given some institutional framework and the specific reforms come from a theory of why the event happened.
+
+Entrepreneurial management of market frictions: Elimination or Exacerbation?
+
+Secession policy in a globalized world. 
+With globalization the outside option of a group is much larger than in autarky. Therefore, allowing for secession puts a threat when bargaining in a democracy. Since in a democracy the status quo can prevail when groups interests are sufficiently heterogeneous, secession by a homogeneous group can bring the necessary reforms when they consititute an autonomous political community.
+Note: in rich countries rich people want to secede. In poor countries poor it is poor people. I think this is not due to the country's wealth per-se but on the redistribution policies (e.g. Argenting is poor but rich ppl would want to secede cause redistribution is high)
+Note: Secession policy to break underdevelopment (homogeneous group can secede and have their out policies)
+Note: Secession today is related to redistribution policies but could be much broader
+
+A simple framework to study economic reforms. A Gvt wants to make 3 reforms. What should be the order and pace? Develop general methodology to tackle this.
+What is the evidence? gather data for all reforms after WWII with types of reforms, pace and order. Also need to take outcomes such as poverty, inequality, unemployment, etc
+What is the definition of economic reform.
+
+Empirical evidence on the political economy of the founding of the Fed (see Selgin's article)
+
+RCT on cases going to private vs public courts
+
+Integrate search theory with networks. Take money seriously in a network model. Aggregate liquidity shocks.
+
+A misallocation theory of weak and failed states.
+Ppl in the Govt are the only legitimized to use force to enforce law. If they dont do it, it is hard to find substitute.
+Since enforcement requires resources, having too few taxes mean misallocation.
+However, since they also change law, they have the ability to nationalize sectors. But then it comes a moment where misallocation becomes to high again.
+Laffer curve of Gov direct involvement. On the left they are not doing their job. At the right they taking advantage of their position.
+If dictators do their job while being authoritarian but let private sector do their job then we do not see failure
+If dictators dont do their job and steal private jobs then we see failures
+
+Why do we punish? 
+Punishment as a way to moderate behaviour when there are enforcement frictions.
+If you wanna steal sth and there is only enforcement but no punishment, then you always prefer to steal unless we have perfect enforcement technology.
+Then in the data we should see that punishment is harsher when enforcement frictions are larger.
+Would be have social norms if social punishment is impossible? In other words, does the creation of social norms and moral values develop because people know that they have a feasible way to impose these into other people?
+
+What are the effects of increasing contract enforceability?
+Look at natural experiment from debt issuing in various jurisdictions
+
+Why not offer political risk insurance to citizens? Cause the firm is insuring against aggregate risk.
+
+Papers usually claim they randomize state capacity but they do not.
+Papa Nueva Guinea paper on state capacity and gender inequality
+how can I actually randomize state capacity?
+
+State vs Planner Revisited
+Model of one country with a government and market frictions. 
+Under what conditions the gov chooses the same allocations as the planner?
+Under which political arrangements do politicians choose as a planner?
+Should there be public goods and/or externalities in the model? 
+Maximizing profits as a policy rule 
+
+What drives institutional innovation?
+Inter jurisdictial market structure matters as well as it matters for product innovation in any market
+Groups develop institutions both to increase survival probability against external threat and also to cooperatve more effectively within the group which also affects survival probability
+Related to memes and evolutionary institutions
+Politics have incentives to change policies when either they face internal threats (lose election, revolt, riot, etc) or external threat (better institutions elsewhere)
+Political and economics reforms which seem ex-ante an improvement are nevertheless someting difficult to implement. In some sense, this is surprising.
+This is related to the literature on using financial instruments to align incentives But is there a more general way to align incentives? What about if governments maximize profits and they are shareholders of the country?
+Related to literature on organizational capital and corporate governance
+
+Economics of Tax Heavens. Incumbents want any of them? How many? One TH gives more incentives for firms to produce and can have positive spillovers to incumbent country. Plus if 0 TH then more competition among incumbents and equilibrium taxes decrease.
+Allowing some TH as a way for incumbents to do tax discrimination. If lower taxes within country they need to do it for everyone.
+
+The mobility-inequality iso-cost curve.
+How much more inequality would you tolerate for an additional unit of mobility?
+
+Why isnt there corruption within firms?
+
+Look for Gov who finances NGOs with lottery and D>S. Then follow both groups. Then we have group who finances itself coactively and another one voluntarily.
+  
+Does earning power changes preferences? Incentives vs endogenous preferences
+
+Does going from mandatory to optional voting affect political attitudes? Evidence from RD cutoff in Argentina at 16 and 18 (16-18 optional, 18- mandatory)
+
+A Macroeconomic Model with Political Frictions.
+Politicaly Robust Counterfactuals in Macroeconomics
+Economists have taken serious the task of microfounding every aspect of the markets we study to hope we are doing shocks which do not change any exogenous variable. How do we account for the lack of political structure in our models given today's relevance on politics? 
+
+Is there an entrepreneur for every market failure?
+
+A Model of the Technical Policy Maker
+Doesn't need votes but is influences by politics
+
+An impossibility Result for the Political Coase Theorem: The Case of Imperfect Monitoring
+State exists to provide a public good like defense, security, coordination, supervision. All of these have free-riding problems. The issue is that since you cannot charge voluntarily, you need to chase your clients, as oppossed to private goods. Moreover, even when excluding exists, imperfect monitoring can make a non-public good de facto public. Therefore the gov needs to use imperfect tools to achieve tax collection and/or exclusion such as over-threatening with excessive punishments, which makes the equilibrium inefficient. The impossibility comes from the fact that the State exists precisely because there are public goods. Moreover when I endow the gov with a technology to improve monitoring, now if I combine it with either lack of commitment or non-benevolent then inefficiency persists since monitoring is a broad technology which can be used not only to verify tax collection. For instance with lack of commitment, self-interest, and perfect monitoring the gov has incentives to manage people at will
+
+
+
+
+
+
+
+
+
+
+MACRO
+
+
+
+
+
+The interaction between fiscal policy and input reallocation. Model with gov who spends differentlly from private sector. Austerity means lower output in the short run and higher unemployment if high cost of input reallocation. Recovery speed depends on whether austerity measure comes with lowering costs of reallocation.
+
+Ricardian Equivalence and Misallocation. How fiscal policy effects change when Gov spends differently from private sector?
+
+The value of experimentation: Evidence from fake money positions.
+
+Is there love for rigidity in wages?
+Find natural experiments for variation in price rigidity. Also history could help: How rigid were wages in history? Are unions relevant? 
+
+Genes and growth: Evidence from genetic manipulation.
+
+business cycle: maturity mismatch and irreversibility of process of production
+
+State using crypto to do transactions within? 
+
+On the scope of capital goods and speed of misallocation reversal
+
+Firm size, scale vs scope
+Why dont corporations diversify more? MC Dondald's depends on ppl keeping buying hamburguers
+Know-how and economies of scale involved.
+
+
+why are wages sticky?
+1) bad morale for employees to cut wages so better to lay-off some of them
+2) search frictions
+3) Govt regulations
+4) uneasy money blog: when demand for labor is low, workers cannot bid down wages to take over other ppl's jobs. Therefore, layoffs happen.
+
+Agent-based models to pick equilibrium in a multiple equilibrium model
+
+Optimal MP in an economic reform.
+When doing a structural reform potential gdp will change and so MP has to take into account this change to do MP when the reform takes place.
+
+Replication Argument Revisited.
+Find empirical evidence on how agents in an economy scale production.
+Prior: family owned business expands and hires non-family employees. Medium sized firms expand but do not expand every input proportionately.
+Best case for replication argument is franchises but it is not common.
+
+Take Immigration wave to estimate search parameter.
+Immigrants find job fast because they do not have safety net
+
+Sticky prices as implicit contracts between buyer and seller
+evolutionary pshycology 
+
+Cryptocurrencies, the dollar, and the global payment system
+When are crypto and dollar subs? when are them complements?
+does this depend on the country? poor vs rich? institutions?
+
+Macroeconomics of Routine
+
+Experiment to test money non-neutrality. 
+Under what conditions hold? 
+Can test theories
+
+
+
+
+
+
+MACRO FINANCE
+
+
+
+
+
+
+We usually associate CB communication policy with credibility and effectiveness of MP. Another channel is that transparent communication lowers the cost of Fed Watching. With some discretion and some centrality in MP regime, Fed Watching is valuable and also a public good. Individual agents doing this is in some sense inefficient. CB communication to provide common knowledge could improve efficiency.
+
+Segmentation in MP: In CB with fiat money there are open market exchanges. In FB banks issue banknotes. What changes?
+Cantillon effects with cryptocurrencies: in a fiat system with CB there are open market operations with auctions. The reward is distributed among CB and by best offerer. In crypto the reward is given to the miner. 
+
+The unit of account as a device to provide a sufficient statistic for profit and loss signals. 
+Without a unit of account it requires a massive amount of cognitive effort and skills. 
+Compare with the extreme case of no  unit of account but common knowledge about all relative prices
+Is it possible to know the opportunity cost without unit of account? 
+Extra: barter economy as a bilateral monopoly problem?
+Read Schneider on optimal government currency and try to reply.
+
+Optimal banking industry. Bank solves a problem of merge and aquisition, opening branches, etc. The outcome changes both systemic risk and risk sharing. Trade off?
+This seems quite related to financial fragility in networks.
+
+Banker's club as an optimal mechanism to produce safe assets
+Maybe can use Canadian data for this??
+
+P2P crypto as a way to hedge having a platform to trade against bad economic policy
+Hedging institutions
+
+Neo-banks and MP transmittion mechanism
+
+Money and growth.
+Money acts as an intermediate good that facilitates trade. Therefore in a model of weak links the existence of money increases TFP. Moreover, the monetary regime translates into a different network in the production and distribution of money which affects financial fragility.
+
+Rules versus policies: The case of banking.
+Simple rules can outperform seemingly more efficient but more complex to implement public policies. E.g. to eliminate run equilibrium, instead of deposit insurance it could be better to allow for suspension of convertibility.
+
+A simple model of banking risk, maturity mismatch and leverage.
+Model that is able to turn-off-on each issue and study the implications of a world with any of the combinations.
+Implcations in terms of runs, liquidity, solvency,  systemic risk, etc.
+Banks: Risk, Maturity Mismatch and Leverage.
+Maturity Mismatch Then leverage positive 
+
+The impact of stable coins on the welfare cost of financial repression.
+Before ppl wanted to trade in dollars but the Govt put binding constraints. Now with stable coins is more difficult.
+If agents coordiante they put a higher threat to Gov and therefore steady state equilibrium inflation is lower.
+Moreover, when hit by shock, money demand for local currency is more elastic and therefore Gov have more incentives to restructure spending
+Paradoxically, the probability of hyperinflation can be higher since elasticity is higher. However, this new hyperinflation is less harmful since ppl are trading with stable coins.
+Important to model that with stable coins increases anonymity and Gov prohibition is impossible
+
+On the interaction between legal tender and suspension of convertibility. With legal tender taxes are allowed to be paid in that money. With convertibility that money can be redeemed into base money. What is the connection with LOLR and bailout policy?
+Might be that with convertibility, legal tender status is irrelevant. Also, with convertibility of private money and legal tender of outside money could give more flexibility for LOLR. 
+The equivalence between legal tender status and suspension of convertibility. Moreover, both of them are related to LOLR problem.
+Also, relate to inflation and note discount.
+
+Are market size of banks inefficient? 
+size (market share) per-se is not determinant. 
+
+What is the causal effect of a bank run in the real economy? 
+Look for a systemic or big bank run which was not triggered by fundamentals. Then we can interpret this as an exogenous bank run and see its consequences. 
+
+
+
+
+
+
+OTHERS
+
+
+
+
+
+
+
+Marginal utility should be over inventory, not consumption. Once you consume one unit you do not have it available when getting the 2nd unit.
+In two simple models what would be the different implications?
+
+Disentangle contribution of violence in drug market between prohibition and drug.
+
+External validity and policy implications. Policy implication depends on external validity, and external validity depends on inference from local knowledge.
+
+Buscar datos para medir efecto causal de reflexión en economía. Investigar en gral la reflexividad en economía: metodología, filosofía, etc.
+
+Brexit no fue un shock xq la forma en que se mide es por odds rate de bets pero la gente que hace apuestas no esta en una network que votaba que no se vaya UK
+
+Does romantic relationships affect commercial relationships?
+Knowing that someone has several partners at the same time or that partners last too little or that a partner just broke up with that person can signal bad type for commerce as well
+Identify exogenous shock that terminates relationship and see how this affects business relationships. 
+Have to be careful whether and how information spreads and who knows the fact and if people know also the reason
+It could also be a positive signal: they are breaking up for carrer reasons, working too much, etc
+
+A certified agency to stop fake news: field experimento in an election with UyCheck
+
+A unified theory of pro and anti-socialy behavior: reciprocity and envy
+
+If one goes from A to B, and B turned out to be a bad state, why do we usually go back to A instead of choosing optimal option from B? Even if A was optimal in the first place, once being in B, C could be optimal now. Or, is usually going back to A the optimal option? When is this the case?
+
+
+
+
+
+
+  
+ 
+
+
