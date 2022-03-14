@@ -84,7 +84,7 @@ Welcome to my website. Here you can find all my research and non-research projec
 
 I have dedicated the last years of my Ph.D. to studying and researching monetary economics and financial history. My research tries to understand why banks still exist, how to think about monetary innovations, the life-cycle of the modern banking industry, and the extent of financial fragility in unregulated banking systems.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/cv_Jimenez.pdf" "newtab" >}}CV{{< /staticref >}}
 
 {{< icon name="envelope" pack="fas" >}} mathiasj\@stanford.edu
 
