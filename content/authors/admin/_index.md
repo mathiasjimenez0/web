@@ -19,8 +19,9 @@ bio: monetary economics, financial history, macro-finance, special jurisdictions
 # Interests to show in About widget
 interests:
 - Monetary Economics
-- Financial History
 - Macro-Finance
+- Financial History
+- Blockchain
 - Special Jurisdictions
 
 # Education to show in About widget
