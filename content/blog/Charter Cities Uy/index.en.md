@@ -26,6 +26,16 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
+iframe {
+  height: 1000px; /* Set this to the height you want the iframe to have. */
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+}
 ---
 
 Este post describe brevemente una propuesta de un nuevo régimen legal especial para Uruguay en el cual desarrolladores gozan de la autonomía jurisdiccional para ofrecer un marco normativo general distinto al nacional y servicios públicos municipales. La propuesta está basada en ideas provenientes de una comunidad incipiente de inversores, filántropos, tecnólogos e investigadores de todo el mundo con la visión de masificar un nuevo paradigma de gobernanza que impulse el desarrollo económico[^1]. Hoy en día, el único país con un marco legal general del estilo propuesto aquí es Honduras con su Ley ZEDE[^2], si bien también existen proyectos puntuales de jurisdicciones con una amplia autonomía en Asia, África, EEUU, y casos paradigmáticos en los cuales este movimiento se inspira como Shenzen, Hong Kong, Dubai, y Singapur[^3].  
