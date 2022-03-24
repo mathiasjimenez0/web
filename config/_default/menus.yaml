@@ -12,7 +12,7 @@ main:
 #    weight: 30
   - name: Research
     url: '/publication/#publications'
-    weight: 10
+    weight: 20
   - name: Posts
     url: '/blog/#posts'
     weight: 10    
