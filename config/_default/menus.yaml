@@ -12,10 +12,10 @@ main:
 #    weight: 30
   - name: Research
     url: '/publication/#publications'
-    weight: 20
+    weight: 10
   - name: Posts
     url: '/blog/#posts'
-    weight: 10    
+    weight: 20    
     #  - name: Demo
 #    url: '#about'
 #    weight: 10
