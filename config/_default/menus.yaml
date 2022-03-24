@@ -13,6 +13,9 @@ main:
   - name: Research
     url: '/publication/#publications'
     weight: 10
+  - name: Posts
+    url: '/blog/#posts'
+    weight: 10    
     #  - name: Demo
 #    url: '#about'
 #    weight: 10
