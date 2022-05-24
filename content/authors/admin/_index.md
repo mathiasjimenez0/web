@@ -83,7 +83,7 @@ highlight_name: true
 
 Welcome to my website. Here you can find all my research and non-research projects, professional information, and links to social media. Feel free to navigate, share, and contact me by any means provided here.
 
-I have dedicated my Ph.D. to studying and researching monetary economics and financial history. My research tries to understand to what extent are banks technologically obsolete in the provision of payment services, the historical evolution of the modern banking industry, and the extent of financial fragility in unregulated banking systems.
+During my Ph.D., I have done theoretical and empirical research on the extent to which banks are technologically obsolete in the provision of payment services, the historical evolution of the modern banking industry, and the extent of financial fragility in unregulated banking.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/cv_Jimenez.pdf" "newtab" >}}CV{{< /staticref >}}
 
