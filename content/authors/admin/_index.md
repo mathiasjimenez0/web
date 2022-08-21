@@ -6,7 +6,7 @@ title: Mathias Jimenez
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Economics
+role: Ph.D. in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -45,7 +45,7 @@ interests:
 social:
 # - icon: envelope
   # icon_pack: fas
-  # link: mailto:mathiasj@stanford.edu  
+  # link: mailto:mathiasjimenez8@gmail.com  
 - icon: cv
   icon_pack: fab
   link: 
@@ -87,5 +87,5 @@ During my Ph.D., I have done theoretical and empirical research on the extent to
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/cv_Jimenez.pdf" "newtab" >}}CV{{< /staticref >}}
 
-{{< icon name="envelope" pack="fas" >}} mathiasj\@stanford.edu
+{{< icon name="envelope" pack="fas" >}} mathiasjimenez8\@gmail.com
 
